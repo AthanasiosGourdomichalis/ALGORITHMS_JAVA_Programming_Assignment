@@ -1,0 +1,73 @@
+==================================
+Results for n = 100
+==================================
+----------------------------------
+Instance: 1
+----------------------------------
+Dynamic Algorithm 1: Protein= 5860, Calories= 5044
+Dynamic Algorithm 2: Protein= 5860, Calories= 5044
+Greedy Algorithm 3: Protein= 5830, Calories= 5014
+----------------------------------
+Instance: 2
+----------------------------------
+Dynamic Algorithm 1: Protein= 6209, Calories= 5511
+Dynamic Algorithm 2: Protein= 6209, Calories= 5511
+Greedy Algorithm 3: Protein= 6122, Calories= 5421
+----------------------------------
+Instance: 3
+----------------------------------
+Dynamic Algorithm 1: Protein= 6576, Calories= 5780
+Dynamic Algorithm 2: Protein= 6576, Calories= 5780
+Greedy Algorithm 3: Protein= 6485, Calories= 5687
+----------------------------------
+Instance: 4
+----------------------------------
+Dynamic Algorithm 1: Protein= 7472, Calories= 6654
+Dynamic Algorithm 2: Protein= 7472, Calories= 6654
+Greedy Algorithm 3: Protein= 7396, Calories= 6572
+----------------------------------
+Instance: 5
+----------------------------------
+Dynamic Algorithm 1: Protein= 6510, Calories= 5731
+Dynamic Algorithm 2: Protein= 6510, Calories= 5731
+Greedy Algorithm 3: Protein= 6431, Calories= 5646
+----------------------------------
+Instance: 6
+----------------------------------
+Dynamic Algorithm 1: Protein= 6646, Calories= 6105
+Dynamic Algorithm 2: Protein= 6646, Calories= 6105
+Greedy Algorithm 3: Protein= 6521, Calories= 5975
+----------------------------------
+Instance: 7
+----------------------------------
+Dynamic Algorithm 1: Protein= 8858, Calories= 8049
+Dynamic Algorithm 2: Protein= 8858, Calories= 8048
+Greedy Algorithm 3: Protein= 8758, Calories= 7941
+----------------------------------
+Instance: 8
+----------------------------------
+Dynamic Algorithm 1: Protein= 7788, Calories= 6761
+Dynamic Algorithm 2: Protein= 7788, Calories= 6761
+Greedy Algorithm 3: Protein= 7788, Calories= 6761
+----------------------------------
+Instance: 9
+----------------------------------
+Dynamic Algorithm 1: Protein= 7779, Calories= 7290
+Dynamic Algorithm 2: Protein= 7779, Calories= 7290
+Greedy Algorithm 3: Protein= 7652, Calories= 7151
+----------------------------------
+Instance: 10
+----------------------------------
+Dynamic Algorithm 1: Protein= 8456, Calories= 7503
+Dynamic Algorithm 2: Protein= 8456, Calories= 7503
+Greedy Algorithm 3: Protein= 8439, Calories= 7480
+==================================
+Execution time for each algorithm
+==================================
+Average execution time Dynamic Algorithm 1: 2 ms
+Average execution time Dynamic Algorithm 2: 2 ms
+Average execution time Greedy Algorithm 3: 0 ms
+==================================
+Average approximation ratio
+(SOL/OPT) = 0.9896
+==================================

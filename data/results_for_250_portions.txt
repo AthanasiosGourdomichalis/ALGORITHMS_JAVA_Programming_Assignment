@@ -1,0 +1,73 @@
+==================================
+Results for n = 250
+==================================
+----------------------------------
+Instance: 1
+----------------------------------
+Dynamic Algorithm 1: Protein= 40579, Calories= 36030
+Dynamic Algorithm 2: Protein= 40579, Calories= 36028
+Greedy Algorithm 3: Protein= 40504, Calories= 35944
+----------------------------------
+Instance: 2
+----------------------------------
+Dynamic Algorithm 1: Protein= 46384, Calories= 41336
+Dynamic Algorithm 2: Protein= 46384, Calories= 41336
+Greedy Algorithm 3: Protein= 46149, Calories= 41095
+----------------------------------
+Instance: 3
+----------------------------------
+Dynamic Algorithm 1: Protein= 56225, Calories= 51747
+Dynamic Algorithm 2: Protein= 56225, Calories= 51747
+Greedy Algorithm 3: Protein= 56153, Calories= 51663
+----------------------------------
+Instance: 4
+----------------------------------
+Dynamic Algorithm 1: Protein= 42768, Calories= 37093
+Dynamic Algorithm 2: Protein= 42768, Calories= 37093
+Greedy Algorithm 3: Protein= 42653, Calories= 36972
+----------------------------------
+Instance: 5
+----------------------------------
+Dynamic Algorithm 1: Protein= 40207, Calories= 34816
+Dynamic Algorithm 2: Protein= 40207, Calories= 34816
+Greedy Algorithm 3: Protein= 39904, Calories= 34513
+----------------------------------
+Instance: 6
+----------------------------------
+Dynamic Algorithm 1: Protein= 54179, Calories= 48955
+Dynamic Algorithm 2: Protein= 54179, Calories= 48955
+Greedy Algorithm 3: Protein= 53985, Calories= 48746
+----------------------------------
+Instance: 7
+----------------------------------
+Dynamic Algorithm 1: Protein= 43815, Calories= 38518
+Dynamic Algorithm 2: Protein= 43815, Calories= 38518
+Greedy Algorithm 3: Protein= 43664, Calories= 38360
+----------------------------------
+Instance: 8
+----------------------------------
+Dynamic Algorithm 1: Protein= 55061, Calories= 49959
+Dynamic Algorithm 2: Protein= 55061, Calories= 49959
+Greedy Algorithm 3: Protein= 54944, Calories= 49819
+----------------------------------
+Instance: 9
+----------------------------------
+Dynamic Algorithm 1: Protein= 51184, Calories= 45946
+Dynamic Algorithm 2: Protein= 51184, Calories= 45946
+Greedy Algorithm 3: Protein= 50993, Calories= 45737
+----------------------------------
+Instance: 10
+----------------------------------
+Dynamic Algorithm 1: Protein= 38084, Calories= 32831
+Dynamic Algorithm 2: Protein= 38084, Calories= 32831
+Greedy Algorithm 3: Protein= 38065, Calories= 32810
+==================================
+Execution time for each algorithm
+==================================
+Average execution time Dynamic Algorithm 1: 27 ms
+Average execution time Dynamic Algorithm 2: 60 ms
+Average execution time Greedy Algorithm 3: 0 ms
+==================================
+Average approximation ratio
+(SOL/OPT) = 0.9968
+==================================
